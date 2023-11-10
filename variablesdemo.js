@@ -1,0 +1,10 @@
+var employeeName = "John";
+console.log(employeeName);
+var abc;
+abc = "Sahil";
+console.log(abc);
+var xyz = "test";
+console.log(xyz);
+var test;
+test = "ray";
+console.log(test);
